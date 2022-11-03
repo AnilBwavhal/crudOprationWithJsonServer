@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "anil",
+      "lastName": "wa",
+      "Email": "anil@123",
+      "Mobile": "985984898458",
+      "Salary": "200000000000000"
+    },
+    {
+      "firstName": "sail",
+      "lastName": "k",
+      "Email": "sail@gmail.com",
+      "Mobile": "86969696969",
+      "Salary": "2010100",
+      "id": 2
+    },
+    {
+      "firstName": "yash",
+      "lastName": "g",
+      "Email": "yash@gmail.com",
+      "Mobile": "75849398e393",
+      "Salary": "8585",
+      "id": 3
+    },
+    {
+      "firstName": "umesh",
+      "lastName": "j",
+      "Email": "h@gmail.com",
+      "Mobile": "887009787",
+      "Salary": "10",
+      "id": 4
+    },
+    {
+      "firstName": "ANIL",
+      "lastName": "w",
+      "Email": "anil@gmail.com",
+      "Mobile": "8787997738",
+      "Salary": "10000000000000000000000",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
